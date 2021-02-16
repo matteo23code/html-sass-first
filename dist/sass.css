@@ -1,0 +1,14 @@
+#container {
+  background-color: #ccc;
+  width: 600px;
+  height: 600px;
+}
+#container .contain {
+  color: blue;
+}
+#container .title {
+  color: grey;
+}
+#container .title-2 {
+  color: grey;
+}

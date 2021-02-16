@@ -1,0 +1,18 @@
+$color-g: grey;
+$color-b: blue;
+#container{
+    background-color: #ccc;
+    width: 600px;
+    height: 600px;
+
+    .contain{
+      color: $color-b;
+    }
+    .title{
+        color: $color-g;
+    }
+    .title-2{
+        color: $color-g;
+    }
+
+}
